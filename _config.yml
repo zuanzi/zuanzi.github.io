@@ -2,10 +2,10 @@
 title: Zuan Zi
 subtitle: Welcome to Zuanzi's Blog.
 welcome_message: <a href="https://github.com/zuanzi" target="_blank">Github Page.</a>
-description: My conquer is the Sea of Stars.
+description: Talk is cheap. Show me the code.
 creator: 
 
-url: "http://vno.onevcat.com"
+#url: "http://vno.onevcat.com"
 
 permalink: /:year/:month/:title/
 
@@ -21,8 +21,8 @@ blog_button:
     description: Visit blog
 
 # Navigation buttons in the front page.
-nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+#nav:
+#    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -36,12 +36,12 @@ comment:
     # duoshuo: 
     
 # Social
-social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+#social:
+#    weibo: onevcat
+#    github: onevcat
+#    twitter: onevcat
+#    gplus: 107108267983477358170
+#    mail: onev@onevcat.com
 
 # Google Analytics
 ga:
